@@ -1,1205 +1,1152 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722718441041 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722721371998 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718444123 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721375070 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718447243 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721378186 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718450474 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721381278 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718453562 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721384351 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718456650 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721387438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718459768 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721390528 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718463011 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721393604 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718466168 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721396692 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718469291 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721399772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718472384 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721402859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718475466 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721405947 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718478574 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721409033 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718481660 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721412105 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718484747 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721415186 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718487854 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721418261 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718490946 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721421342 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718494035 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721424415 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718497118 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721427505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718500208 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721430574 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718503295 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721433709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718506386 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721436795 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718509479 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721439900 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718512571 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721443076 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718515678 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721446161 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718518797 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721449237 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718521920 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721452317 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718525022 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721455407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718528107 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721458488 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718531210 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721461560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718534336 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721464638 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718537467 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721467707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718540557 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721470789 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718543642 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721473871 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718546749 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721476941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718549863 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721480030 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718552972 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721483467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718556105 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721486609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718559229 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721489698 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718562343 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721492783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718565464 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721495891 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718568550 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721498990 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718571834 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721502356 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718575070 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721505447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718578155 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721508570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718581243 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721511645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718584327 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721515168 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718587400 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721518259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718590479 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721521344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718593598 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721524431 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718596680 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721527517 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718599789 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721530587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718602873 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721533928 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718605942 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721537231 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718609032 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721540323 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718612097 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721543411 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718615177 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721546538 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718618255 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721549637 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718621361 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721552723 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718624446 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721555808 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718627534 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721558879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718630664 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721561953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718633839 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721565025 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718637260 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721568446 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718640346 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721571566 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718643430 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721574706 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718647022 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721577798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718650141 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721580884 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718653206 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721583980 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718656295 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721587088 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718659384 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721590158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718662511 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721593229 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718665618 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721596317 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718668697 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721599407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718671785 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721602492 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718674870 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721605582 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718677988 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721609163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718681109 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721612571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718684193 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721615657 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718687337 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721618724 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718690441 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721621819 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718693552 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721624949 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718696692 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721628019 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718699780 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721631115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718702866 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721634204 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718705953 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721637291 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718709081 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721641321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718712186 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721644409 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718715277 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721647495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718718366 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721650582 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718721452 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721653680 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718724541 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721656775 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718727625 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721659850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718730713 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721662928 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718733800 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721665998 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718736914 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721669065 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718740007 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721672154 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718743187 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721675240 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718746308 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721678328 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718749461 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721681421 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718752582 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721684527 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718755675 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721687615 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718758762 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721690686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718761878 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721693821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718765271 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721696890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718768388 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721699963 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718771495 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721703055 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718774618 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721706145 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718777686 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721709234 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718780780 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721712333 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718783863 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721715435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718786941 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721718525 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718790029 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721721625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718793185 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721724794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718796318 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721727883 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718799407 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721730971 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718802497 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721734170 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718805563 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721737318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718808647 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721740412 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718811762 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721743504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718814850 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721746589 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718817967 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721749664 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718821096 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721752732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718824182 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721755800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718827247 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721758886 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718830336 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721761957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718833404 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721765050 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718836569 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721768127 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718839686 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721771260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718842780 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721774333 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718845869 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721777403 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718849088 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721780474 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718852217 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721783561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718855287 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721786630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718858375 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721790116 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718861517 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721793205 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718864735 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721796305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718867871 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721799400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718870991 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721802683 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718874091 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721805827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718877205 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721808975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718880275 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721812084 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718883362 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721815161 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718886448 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721818563 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718889542 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721821833 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718892613 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721824921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718895703 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721828011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718898812 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721831095 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718901898 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721834170 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718905190 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721837243 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718908296 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721840737 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718911436 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721843851 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718914557 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721846922 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718917644 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721850010 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718920732 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721853106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718923818 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721856898 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718926932 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721859997 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718930256 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721863085 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718933347 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721866174 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718936414 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721869262 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718939506 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721872333 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718942575 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721875404 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718945645 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721878874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718948806 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721881981 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718951899 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721885069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718955022 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721888143 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718958186 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721891222 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718961275 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721894306 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718965101 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721897376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718968188 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721900445 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718971260 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721903520 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718974377 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721906605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718977480 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721909692 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718980595 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721913042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718983689 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721916129 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718986809 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721919220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718989927 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721922308 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718993038 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721925382 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718996143 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721928450 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722718999217 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721931521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719002285 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721934588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719005410 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721937659 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719008503 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721941077 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719011628 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721944226 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719014715 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721947307 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719017801 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721950642 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719020912 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721953728 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719024052 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721956814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719027145 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721959906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719030210 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721962997 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719033296 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721966091 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719036385 tunnel running, 1 tunnels registered
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722721969165 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719039455 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719042531 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719045598 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719048704 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719051820 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719054935 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719058012 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719061078 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719064480 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719067571 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719070694 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719073812 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719076934 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719080021 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719083089 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719086369 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719089477 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719092563 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719095691 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719098783 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719101856 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719104927 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719107989 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719111054 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719114129 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719117495 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719120583 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719123649 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719126717 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719129817 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719132902 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719135990 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719139063 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719142147 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719145215 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719148284 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719151369 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719154510 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719157628 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719160744 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719163832 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719166903 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719170026 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719173099 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719176172 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719179393 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719182494 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719185585 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722719188654 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-microsoft-behalf.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+forums-sie.gl.at.ply.gg:4923 => 127.0.0.1:25565 (proto: Udp, port count: 1)
